@@ -1,4 +1,6 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+# Marvinjs
+
+Simple tutorial for MarvinJ with ionic
 
 ## How to use this template
 
@@ -23,4 +25,3 @@ $ ionic cordova run ios
 ```
 
 Substitute ios for android if not on a Mac.
-
